@@ -1,0 +1,72 @@
+python
+java
+c
+c++
+c#
+javascript
+typescript
+html
+css
+react
+angular
+vue
+node.js
+express
+django
+flask
+fastapi
+spring boot
+sql
+mysql
+postgresql
+mongodb
+sqlite
+oracle
+redis
+docker
+kubernetes
+aws
+azure
+gcp
+git
+github
+linux
+machine learning
+deep learning
+artificial intelligence
+nlp
+computer vision
+tensorflow
+pytorch
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+opencv
+power bi
+tableau
+excel
+spark
+hadoop
+airflow
+rest api
+graphql
+flutter
+dart
+android
+ios
+kotlin
+swift
+firebase
+supabase
+figma
+tailwind css
+bootstrap
+next.js
+nestjs
+laravel
+php
+go
+golang
+rust
